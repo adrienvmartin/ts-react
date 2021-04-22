@@ -25,3 +25,4 @@ yarn-error.log*
 tsconfig.json
 react-app-env.d.ts
 .vscode
+package-lock.json
