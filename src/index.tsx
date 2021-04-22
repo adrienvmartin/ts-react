@@ -6,3 +6,8 @@ class App extends React.Component {
     return <div>Hi there</div>
   }
 }
+
+ReactDOM.render(
+  <App />,
+  document.querySelector('#root')
+);
